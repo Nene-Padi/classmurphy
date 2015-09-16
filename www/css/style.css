@@ -1,0 +1,43 @@
+.bar-energize{
+	box-shadow: 0px 10px 10px grey;
+	height: 45px;
+	background-color: #e71e0c;
+}
+
+div.list-inset, .card{
+	box-shadow: 0px 10px 20px #6a0d05;
+}
+
+.actionz{
+	float: right;
+}
+
+.item-input-wrapper{
+	background-color: white;
+}
+
+.itemz{
+	height:60px !important;
+	color: black;
+}
+
+body {
+  cursor: url('http://ionicframework.com/img/finger.png'), auto;
+}
+
+.royal{
+	background-color: #fde4e1;
+}
+
+.side-royal{
+	margin-top: 15px;
+	background-color: #fde4e1;
+}
+
+.button-energize{
+	background-color: #911207;
+}
+
+.list{
+	box-shadow: 0px 10px 20px #6a0d05;
+}
